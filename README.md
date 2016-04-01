@@ -6,6 +6,7 @@ The @ignore command can be used to leave your text unaffected.
 
 Some examples:
 
+```
 ~$ python AOL.py @ignore What is happening to the chat?
 What is happening to the chat?
 ~$ python AOL.py What is happening to the chat?
@@ -19,3 +20,4 @@ Make it stop!
 ~$ python AOL.py Make it stop!
 MAKEI 7ST0P! WUT !1!!1!!1!1!!! 
 ~$
+```
